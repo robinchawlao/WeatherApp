@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url('../src/assets/bg-weather.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
